@@ -1,0 +1,22 @@
+navbar:
+  title: LABORATORIO DE UAVS Y APLICACIONES OPTICAS
+  left:
+  - text: Pagina principal para enlaces y archivos
+  href: content.html
+output:
+  html_document:
+#   theme: darkly
+#   theme: cerulean
+#   theme: cosmo
+#   theme: flatly
+#   theme: journal
+#   theme: lumen
+#   theme: paper
+#   theme: readable
+#   theme: sandstone
+#   theme: simplex
+#   theme: spacelab
+   theme: united
+#   theme: yeti
+    
+    
